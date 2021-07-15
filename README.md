@@ -10,7 +10,7 @@ Before running Project make sure you have following dependencies -
 - pip
 - Opencv
 - Numpy
-- YOLOv3 Object detector pre-trained(on the COCO dataset model files.
+- YOLOv3 Object detector pre-trained(on the COCO dataset) model files.
 
 
 
